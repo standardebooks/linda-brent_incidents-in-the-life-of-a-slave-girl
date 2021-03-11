@@ -170,6 +170,7 @@ figure{
 /* end of images
 
 /* letters */
+
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
