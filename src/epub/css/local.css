@@ -3,11 +3,6 @@
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
 /* location-specific */
-#appendix blockquote{
-	margin-left: 0;
-	margin-right: 0;
-}
-
 #appendix p[epub|type~="z3998:signature"]{
 	margin-top: 1em;
 	text-align: right;
