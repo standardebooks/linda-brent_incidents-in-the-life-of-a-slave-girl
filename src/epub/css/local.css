@@ -33,6 +33,7 @@
 	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	text-align: right;
 }
 /* End all epigraphs */
 
@@ -114,6 +115,6 @@ p span.i1{
 
 p span.i8{
 	text-indent: -1em;
-	padding-left: 3em;
+	padding-left: 9m;
 }
 /* end of poem/verse/song */
