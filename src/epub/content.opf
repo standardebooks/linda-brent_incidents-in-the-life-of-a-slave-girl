@@ -29,6 +29,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Incidents in the Life of a Slave Girl</dc:title>
 		<meta property="file-as" refines="#title">Incidents in the Life of a Slave Girl</meta>
+		<meta property="title-type" refines="#title">main&gt;</meta>
+		<dc:title id="subtitle">Seven Years Concealed</dc:title>
+		<meta property="file-as" refines="#subtitle">Seven Years Concealed</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Incidents in the Life of a Slave Girl: Seven Years Concealed</dc:title>
+		<meta property="file-as" refines="#fulltitle">Incidents in the Life of a Slave Girl: Seven Years Concealed</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Women slaves -- United States -- Biography</dc:subject>
 		<dc:subject id="subject-2">Slaves -- United States -- Biography</dc:subject>
 		<dc:subject id="subject-3">Slaves -- United States -- Social conditions</dc:subject>
@@ -41,15 +48,16 @@
 		<meta property="term" refines="#subject-3">sh2010113227</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="se:subject">Memoir</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The autobiography of a woman who grew up in, and escaped from, slavery.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Harriet Jacobs was born a slave in North Carolina, but, in her words, didn’t realize it until her father died when she six years old. Six years later, when her mistress died, she was bequeathed to the mistress’ granddaughter, thereby coming into the household of the mistress’ lecherous son. Several years later she escaped, only to have to hide for seven years in a cramped garret that did not allow her to stand or sit up. She was finally able to make her way north, where she was reunited with her children. Many years later, after narrowly avoiding capture multiple times due to the Fugitive Slave Law, her employer purchased her freedom.&lt;/p&gt;
+			&lt;p&gt;Jacobs, writing as &lt;a href="https://standardebooks.org/ebooks/linda-brent"&gt;Linda Brent&lt;/a&gt;, tells the riveting story of her life in the South as a slave. She brings an unflinching eye to “good” masters and mistresses who nevertheless lie to, steal from, and continually break promises to their slaves, and to bad ones who beat and kill their slaves for no particular reason. Even in the north, after her escape, she is disappointed to find prejudice and degrading treatment for blacks. After having been convinced to write down her story, it took years to find a publisher who would print it. It was finally made available to the public just a few months before the shots at Fort Sumter that began the Civil War.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11030</dc:source>
 		<dc:source>https://archive.org/details/incidentsinlifeo1861jaco</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Incidents_in_the_Life_of_a_Slave_Girl</meta>
@@ -68,10 +76,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80001490</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Winslow Homer</dc:contributor>
+		<meta property="file-as" refines="#artist">Homer, Winslow</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Winslow_Homer</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n79023170</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
