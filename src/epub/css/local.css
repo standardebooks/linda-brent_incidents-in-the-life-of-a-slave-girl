@@ -14,9 +14,9 @@
 }
 
 [epub|type~="epigraph"] cite{
-	margin-top: 1em;
 	font-style: normal;
 	font-variant: small-caps;
+	margin-top: 1em;
 	text-align: right;
 }
 /* End all epigraphs */
@@ -82,8 +82,8 @@ footer{
 [epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:song"] p > span + br,
@@ -92,12 +92,12 @@ footer{
 }
 
 p span.i1{
-	text-indent: -1em;
 	padding-left: 2em;
+	text-indent: -1em;
 }
 
 p span.i8{
-	text-indent: -1em;
 	padding-left: 9m;
+	text-indent: -1em;
 }
 /* end of poem/verse/song */
