@@ -89,7 +89,7 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">PG Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">PG Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net/</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="sponsor">Google</dc:contributor>
 		<meta property="file-as" refines="#sponsor">Google</meta>
