@@ -37,9 +37,9 @@
 		<dc:title id="fulltitle">Incidents in the Life of a Slave Girl: Seven Years Concealed</dc:title>
 		<meta property="file-as" refines="#fulltitle">Incidents in the Life of a Slave Girl: Seven Years Concealed</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Women slaves -- United States -- Biography</dc:subject>
-		<dc:subject id="subject-2">Slaves -- United States -- Biography</dc:subject>
-		<dc:subject id="subject-3">Slaves -- United States -- Social conditions</dc:subject>
+		<dc:subject id="subject-1">Women slaves--United States--Biography</dc:subject>
+		<dc:subject id="subject-2">Slaves--United States--Biography</dc:subject>
+		<dc:subject id="subject-3">Slaves--United States--Social conditions</dc:subject>
 		<dc:subject id="subject-4">Jacobs, Harriet A. (Harriet Ann), 1813-1897</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2010119206</meta>
