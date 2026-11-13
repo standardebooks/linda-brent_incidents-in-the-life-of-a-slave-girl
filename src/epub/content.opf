@@ -91,8 +91,8 @@
 		<dc:contributor id="transcriber-2">Andre Lapierre</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Lapierre, Andre</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">PG Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">PG Distributed Proofreaders</meta>
+		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="sponsor">Google</dc:contributor>
