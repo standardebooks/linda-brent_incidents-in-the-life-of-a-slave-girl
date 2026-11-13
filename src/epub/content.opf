@@ -68,7 +68,7 @@
 		<dc:creator id="author">Linda Brent</dc:creator>
 		<meta property="file-as" refines="#author">Brent, Linda</meta>
 		<meta property="schema:alternateName" refines="#author">Harriet Jacobs</meta>
-		<link href="https://en.wikipedia.org/wiki/Linda_Brent" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Harriet_Jacobs" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50027972.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
